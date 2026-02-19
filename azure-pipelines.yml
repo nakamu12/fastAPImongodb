@@ -2,7 +2,7 @@ trigger:
 - main
 
 variables:
-  azureServiceConnectionId: '6fff7f94-6274-4d3f-a2e5-f0e2d6f7cfa1'
+  azureServiceConnectionId: '4cf66e2b-3e4d-4174-a99a-1e72385f81ec'
   webAppName: 'nakamuwebapp'
   pythonVersion: '3.11'
 
