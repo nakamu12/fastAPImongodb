@@ -2,8 +2,8 @@ trigger:
 - main
 
 variables:
-  azureServiceConnectionId: '57e2d243-130a-4d15-800e-47bcd42bbf5a'
-  webAppName: 'testeeeappee'
+  azureServiceConnectionId: '6fff7f94-6274-4d3f-a2e5-f0e2d6f7cfa1'
+  webAppName: 'nakamuwebapp'
   pythonVersion: '3.11'
 
 stages:
